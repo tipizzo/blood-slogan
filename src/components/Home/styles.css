@@ -1,0 +1,58 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.introduction-section {
+    width: auto;
+    height: 500px;
+    background-image: url('./dist/images/blood-bg.jpg');
+    opacity: 0.9;
+    background-size: cover;
+    padding-top: 80px;
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.introduction-text {
+    margin: 70px;
+}
+
+.heading-title {
+    font-weight:bold;
+    margin: 20px;
+}
+
+.register-link {
+    font-size: 60px;
+}
+
+h2 {
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.search-part {
+    margin: 10px;
+    padding: 10px;
+    color: #A51C1E;
+}
+
+.search-btn{
+    height: 50px;
+}
+
+.filter-section {
+    margin: 30px;
+    padding: 30px;
+}
+
+.filter-btn {
+    margin: 10px;
+    width: 100px;
+}

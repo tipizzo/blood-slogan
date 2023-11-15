@@ -1,0 +1,16 @@
+/* Styling Navbar */
+
+.navbar {
+    padding: 50px;
+}
+
+.navbar-brand {
+    color: #BB2024;
+    font-weight: bold;
+}
+
+.nav-item {
+    color: black;
+    font-size: large;
+    padding: 10px;
+}

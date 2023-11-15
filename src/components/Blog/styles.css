@@ -1,0 +1,21 @@
+.card {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.card-title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-body {
+    color: black;
+}
+
+.card-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
