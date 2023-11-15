@@ -1,13 +1,36 @@
+.row {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 footer {
     width: max-content;
-    height: 300px;
+    height: 400px;
 }
 
 input {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+textarea {
+    height: 100px;
+}
+
+.msg-btn {
+    margin-top: 20px;
 }
 
 .col {
     margin: 10px;
     padding: 10px;
+}
+
+.copyright p {
+    color: black;
+    margin: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }
